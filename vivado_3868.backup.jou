@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Mon May 14 10:18:15 2018
+# Process ID: 3868
+# Current directory: C:/Users/softgalaxy/Documents/Vivado/labs/lab2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3332 C:\Users\softgalaxy\Documents\Vivado\labs\lab2\traffic_intersection.xpr
+# Log file: C:/Users/softgalaxy/Documents/Vivado/labs/lab2/vivado.log
+# Journal file: C:/Users/softgalaxy/Documents/Vivado/labs/lab2\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/softgalaxy/Documents/Vivado/labs/lab2/traffic_intersection.xpr
+update_compile_order -fileset sources_1
+close_project
+open_project C:/Users/softgalaxy/Documents/Vivado/labs/lab0v2/counter.xpr
+update_compile_order -fileset sources_1
+launch_simulation

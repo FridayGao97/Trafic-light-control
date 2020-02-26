@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../traffic_intersection.srcs/sources_1/new/Clock_OneHz.vhd" \
+"../../../../traffic_intersection.srcs/sources_1/new/traffic_intersection.vhd" \
+
+# Do not sort compile order
+nosort

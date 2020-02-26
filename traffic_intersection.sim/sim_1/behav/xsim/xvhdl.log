@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/shixiong/Downloads/lab2-traffic-intersection-eClass-v2/lab2-traffic-intersection-eClass-v2/traffic_intersection.srcs/sources_1/new/traffic_intersection.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'traffic_intersection'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/shixiong/Downloads/lab2-traffic-intersection-eClass-v2/lab2-traffic-intersection-eClass-v2/traffic_intersection.srcs/sim_1/new/traffic-intersection_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'traffic_intersection_tb'
